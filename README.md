@@ -1,39 +1,5 @@
-Weather dashboard using html css and js is uploaden in gthub now give me the discriptions for the repository
-Here's a description for your GitHub repository:
 
-Weather Dashboard
-A weather dashboard built using HTML, CSS, and JavaScript to display current weather conditions and forecasts for a specified location. This project leverages the OpenWeather API to fetch real-time weather data and updates the dashboard dynamically. The dashboard features a clean and responsive design, with options to toggle between Celsius and Fahrenheit units2.
-
-Features
-Real-time weather updates for a selected city1
-
-Light and dark mode themes
-
-Sidebar with weather data for random major cities
-
-Geolocation support to automatically detect user's location
-
-Search functionality to find weather information for over 200,000 cities
-
-Persistent settings using localStorage to save user's last selected city and theme
-
-Technologies Used
-HTML5, CSS3, JavaScript
-
-Bootstrap for responsive design
-
-Axios for making HTTP requests
-
-OpenWeather API for weather data
-
-Future Features
-Autosuggestions for search input
-
-Progressive Web App (PWA) functionality
-
-Refactor code to improve maintainability
-
-#########################################################################################################################################
+###########################################################################################################
 
 # Weather Dashboard
 
