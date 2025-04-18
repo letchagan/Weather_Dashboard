@@ -1,6 +1,3 @@
-
-#######################################################################################
-
 # Weather Dashboard
 
 A responsive weather dashboard built using **HTML**, **CSS**, and **JavaScript** to display current weather conditions and forecasts for a specified location. This project leverages the **OpenWeather API** to fetch real-time weather data and updates the dashboard dynamically.
